@@ -1,0 +1,16 @@
+.avatar {
+    border-radius: 50%;
+}
+
+.card {
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-list {
+    display: flex;
+    gap: 1rem;
+   
+}
